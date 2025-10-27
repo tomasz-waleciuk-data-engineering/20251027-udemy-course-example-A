@@ -1,0 +1,3 @@
+some content for the file createch on UI/branch-1 to stash and add from main branch
+
+it's been added toUI/branch-1 and will be stashed now and then added and commited from main branch
